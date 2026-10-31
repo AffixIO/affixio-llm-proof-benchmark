@@ -1,0 +1,9 @@
+{
+  "name": "affixio-llm-proof-benchmark",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Reproducible, honest benchmarking of AffixIO proof verification in LLM workflows.",
+  "scripts": {"run": "node src/benchmark.mjs"},
+  "engines": {"node": ">=20"}
+}
