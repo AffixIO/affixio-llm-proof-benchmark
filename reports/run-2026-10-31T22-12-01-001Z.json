@@ -1,0 +1,65 @@
+{
+  "startedAt": "2026-10-31T22:12:01.001Z",
+  "finishedAt": "2026-10-31T22:12:57.663Z",
+  "proofCount": 15000,
+  "concurrency": 20,
+  "verified": 0,
+  "rejected": 0,
+  "failed": 15000,
+  "targetVerified": 5000,
+  "targetReached": false,
+  "llm": "internal-evaluation-model",
+  "endpoint": "https://api.affix-io.com/v1/verify",
+  "samples": [
+    {
+      "case": 3,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 1,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 4,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 2,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 5,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 6,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 7,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 8,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 10,
+      "status": 400,
+      "verified": false
+    },
+    {
+      "case": 9,
+      "status": 400,
+      "verified": false
+    }
+  ]
+}
